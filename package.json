@@ -1,0 +1,9 @@
+{
+  "name": "prettier-config-mobi2go",
+  "version": "1.0.0",
+  "description": "This package provides Mobi2Go's .prettierrc as an extensible shared config.",
+  "main": "index.json",
+  "repository": "https://github.com/Mobi2Go/prettier-config-mobi2go.git",
+  "author": "Nils Citoleux <nils@mobi2go.com>",
+  "license": "MIT"
+}
